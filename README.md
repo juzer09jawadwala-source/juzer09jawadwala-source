@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./developers-odyssey-hero.png" alt="The Developer's Odyssey" width="100%" />
+<img src="https://raw.githubusercontent.com/juzer09jawadwala-source/juzer09jawadwala-source/master/developers-odyssey-hero.png" alt="The Developer's Odyssey" width="100%" />
 
 <h3>𓆩 ⚔ 𓆪</h3>
 
@@ -25,7 +25,7 @@
 
 </div>
 
-<img src="./quest-cobblestone.svg" alt="Quest I — The Cobblestone Chronicle" width="100%" />
+<img src="https://raw.githubusercontent.com/juzer09jawadwala-source/juzer09jawadwala-source/master/quest-cobblestone.svg" alt="Quest I — The Cobblestone Chronicle" width="100%" />
 
 Hark! I am **Juzer Jawadwala**—a craftsman of the web, seeker of curious ideas, and builder of digital realms. Herein lies a record of the tools I wield, the quests I pursue, and the roads by which fellow travellers may find me.
 
@@ -40,7 +40,7 @@ Hark! I am **Juzer Jawadwala**—a craftsman of the web, seeker of curious ideas
 
 </div>
 
-<img src="./raven-tower.svg" alt="Quest II — The Raven Tower" width="100%" />
+<img src="https://raw.githubusercontent.com/juzer09jawadwala-source/juzer09jawadwala-source/master/raven-tower.svg" alt="Quest II — The Raven Tower" width="100%" />
 
 <p align="center">
   <a href="mailto:juzer09jawadwala@gmail.com"><img src="https://img.shields.io/badge/Scroll_by_Email-7B2D26?style=for-the-badge&logo=gmail&logoColor=F5E6C8" alt="Email" /></a>
@@ -50,7 +50,7 @@ Hark! I am **Juzer Jawadwala**—a craftsman of the web, seeker of curious ideas
   <a href="#"><img src="https://img.shields.io/badge/Medium_Manuscripts-292421?style=for-the-badge&logo=medium&logoColor=F5E6C8" alt="Medium" /></a>
 </p>
 
-<img src="./minstrels-rest.svg" alt="Interlude — The Minstrel's Rest" width="100%" />
+<img src="https://raw.githubusercontent.com/juzer09jawadwala-source/juzer09jawadwala-source/master/minstrels-rest.svg" alt="Interlude — The Minstrel's Rest" width="100%" />
 
 <div align="center">
 
@@ -58,7 +58,7 @@ Hark! I am **Juzer Jawadwala**—a craftsman of the web, seeker of curious ideas
 
 </div>
 
-<img src="./obsidian-armoury.svg" alt="Quest III — The Obsidian Armoury" width="100%" />
+<img src="https://raw.githubusercontent.com/juzer09jawadwala-source/juzer09jawadwala-source/master/obsidian-armoury.svg" alt="Quest III — The Obsidian Armoury" width="100%" />
 
 | Order of the Realm | Arms, Artifacts & Enchantments |
 |:--|:--|
@@ -78,7 +78,7 @@ Hark! I am **Juzer Jawadwala**—a craftsman of the web, seeker of curious ideas
 
 </div>
 
-<img src="./patrons-shrine.svg" alt="The Final Shrine — Patronage of the Realm" width="100%" />
+<img src="https://raw.githubusercontent.com/juzer09jawadwala-source/juzer09jawadwala-source/master/patrons-shrine.svg" alt="The Final Shrine — Patronage of the Realm" width="100%" />
 
 Should my craft have served or delighted thee, thou mayest provision the workshop with a humble draught:
 
